@@ -10,7 +10,7 @@
 4. https://github.com/slava6752
 5. https://github.com/Uran23817
 
-Дерево папок: (assets/tree.jpeg)
+Дерево папок: (./assets/tree.jpeg)
 
 Распределение обязанностей: (assets/cp1.jpeg)
 
